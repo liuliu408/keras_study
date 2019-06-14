@@ -1,0 +1,42 @@
+
+*.xml
+*.iml
+CNN_Conv2D-BliBli/.DS_Store
+.DS_Store
+ .gitignore
+.idea/
+data/
+logs/
+VOCdevkit/VOC2007/JPEGImages/*.jpg
+VOCdevkit/VOC2007/Annotations/*.xml
+.classpath
+.project
+.settings
+ ##filter databfile、sln file##
+*.mdb
+*.ldb
+*.sln
+##class file##
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+# compression file
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.iml
+*.ipr
+*.iws
+*.h5
+*.pt
+*.weights
+*.caffemodel
+*.pkl
+*.rar
+*.zip
